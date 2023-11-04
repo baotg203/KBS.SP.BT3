@@ -1,0 +1,15 @@
+Bây giờ giả sử ta phải giải quyết bài toán điều chế như sau: cho rằng ta có các chất hóa học
+S, H2O, NaCl; hãy tìm các phản ứng điều chế các chất hóa học Na2SO4 , H2SO4 , HCl, Na.
+
+Để điều chế H2SO4, ta dùng điện phân nước ở nhiệt độ cao để thu được khí O2
+2H2O -> 2H2 + O2
+Từ O2, ta cho phản ứng với S để tạo ra khí SO2
+O2 + S -> SO2
+Từ khí SO2 ta sục vào nước cùng với O2 để tạo ra axit H2SO4
+SO2 + O2 + H2O -> H2SO4
+
+Để điều chế Na2SO4 và HCl, tương tự như thí nghiệm thu được H2SO4, ta cho tác dụng với muối NaCl
+NaCl + H2SO4 -> Na2SO4 + HCl
+
+Để thu được Na, ta dùng phản ứng nhiệt luyện muối NaCl
+2NaCl -> 2Na + Cl2
